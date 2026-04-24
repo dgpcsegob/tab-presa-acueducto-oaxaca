@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tab-paso-ancho/static/css/main.94f8d87e.css",
-    "main.js": "/tab-paso-ancho/static/js/main.6f7746e0.js",
-    "static/js/453.d8451ce0.chunk.js": "/tab-paso-ancho/static/js/453.d8451ce0.chunk.js",
-    "index.html": "/tab-paso-ancho/index.html",
-    "main.94f8d87e.css.map": "/tab-paso-ancho/static/css/main.94f8d87e.css.map",
-    "main.6f7746e0.js.map": "/tab-paso-ancho/static/js/main.6f7746e0.js.map",
-    "453.d8451ce0.chunk.js.map": "/tab-paso-ancho/static/js/453.d8451ce0.chunk.js.map"
+    "main.css": "/tab-mujer-solteca/static/css/main.94f8d87e.css",
+    "main.js": "/tab-mujer-solteca/static/js/main.cfcd416e.js",
+    "static/js/453.b1a85e6f.chunk.js": "/tab-mujer-solteca/static/js/453.b1a85e6f.chunk.js",
+    "index.html": "/tab-mujer-solteca/index.html",
+    "main.94f8d87e.css.map": "/tab-mujer-solteca/static/css/main.94f8d87e.css.map",
+    "main.cfcd416e.js.map": "/tab-mujer-solteca/static/js/main.cfcd416e.js.map",
+    "453.b1a85e6f.chunk.js.map": "/tab-mujer-solteca/static/js/453.b1a85e6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94f8d87e.css",
-    "static/js/main.6f7746e0.js"
+    "static/js/main.cfcd416e.js"
   ]
 }
