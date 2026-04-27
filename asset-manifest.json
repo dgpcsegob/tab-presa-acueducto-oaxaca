@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tab-mujer-solteca/static/css/main.94f8d87e.css",
-    "main.js": "/tab-mujer-solteca/static/js/main.cfcd416e.js",
-    "static/js/453.b1a85e6f.chunk.js": "/tab-mujer-solteca/static/js/453.b1a85e6f.chunk.js",
-    "index.html": "/tab-mujer-solteca/index.html",
-    "main.94f8d87e.css.map": "/tab-mujer-solteca/static/css/main.94f8d87e.css.map",
-    "main.cfcd416e.js.map": "/tab-mujer-solteca/static/js/main.cfcd416e.js.map",
-    "453.b1a85e6f.chunk.js.map": "/tab-mujer-solteca/static/js/453.b1a85e6f.chunk.js.map"
+    "main.css": "/tab-presa-acueducto-oaxaca/static/css/main.94f8d87e.css",
+    "main.js": "/tab-presa-acueducto-oaxaca/static/js/main.ba62ae31.js",
+    "static/js/453.7b41ff7d.chunk.js": "/tab-presa-acueducto-oaxaca/static/js/453.7b41ff7d.chunk.js",
+    "index.html": "/tab-presa-acueducto-oaxaca/index.html",
+    "main.94f8d87e.css.map": "/tab-presa-acueducto-oaxaca/static/css/main.94f8d87e.css.map",
+    "main.ba62ae31.js.map": "/tab-presa-acueducto-oaxaca/static/js/main.ba62ae31.js.map",
+    "453.7b41ff7d.chunk.js.map": "/tab-presa-acueducto-oaxaca/static/js/453.7b41ff7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94f8d87e.css",
-    "static/js/main.cfcd416e.js"
+    "static/js/main.ba62ae31.js"
   ]
 }
