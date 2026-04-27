@@ -1,8 +1,8 @@
 {
-  "name": "tab-mujer-solteca",
+  "name": "tab-presa-acueducto-oaxaca",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dgpcsegob.github.io/tab-mujer-solteca",
+  "homepage": "https://dgpcsegob.github.io/tab-presa-acueducto-oaxaca",
   "dependencies": {
     "@aesqe/mapboxgl-minimap": "^1.0.0",
     "@dnd-kit/core": "^6.3.1",
