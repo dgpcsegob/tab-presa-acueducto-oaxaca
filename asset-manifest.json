@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a3723b0.css",
-    "main.js": "/static/js/main.11ef3ce7.js",
-    "static/js/453.7b41ff7d.chunk.js": "/static/js/453.7b41ff7d.chunk.js",
-    "index.html": "/index.html",
-    "main.0a3723b0.css.map": "/static/css/main.0a3723b0.css.map",
-    "main.11ef3ce7.js.map": "/static/js/main.11ef3ce7.js.map",
-    "453.7b41ff7d.chunk.js.map": "/static/js/453.7b41ff7d.chunk.js.map"
+    "main.css": "/tab-presa-acueducto-oaxaca/static/css/main.0a3723b0.css",
+    "main.js": "/tab-presa-acueducto-oaxaca/static/js/main.d9e764d1.js",
+    "static/js/453.7b41ff7d.chunk.js": "/tab-presa-acueducto-oaxaca/static/js/453.7b41ff7d.chunk.js",
+    "index.html": "/tab-presa-acueducto-oaxaca/index.html",
+    "main.0a3723b0.css.map": "/tab-presa-acueducto-oaxaca/static/css/main.0a3723b0.css.map",
+    "main.d9e764d1.js.map": "/tab-presa-acueducto-oaxaca/static/js/main.d9e764d1.js.map",
+    "453.7b41ff7d.chunk.js.map": "/tab-presa-acueducto-oaxaca/static/js/453.7b41ff7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3723b0.css",
-    "static/js/main.11ef3ce7.js"
+    "static/js/main.d9e764d1.js"
   ]
 }
